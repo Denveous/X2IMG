@@ -28,7 +28,7 @@ X2IMG is a simple image conversion tool that allows you to convert various image
   <img src="x2img.png" width=200 height=300 alt=""></a>
 
 ## Windows Executable 💻
-A precompiled executable for Windows is available for download [here](https://github.com/Denveous/X2IMG/releases/download/Windows/X2IMG.exe) section. You can download the Nuitka EXE from there.
+A precompiled executable for Windows is available for download [here](https://github.com/Denveous/X2IMG/releases/download/Windows/X2IMG.exe). You can download the Nuitka EXE from there.
 
 You can find the Virus Total scan [here](https://www.virustotal.com/gui/url-analysis/u-e017fa275cfb80770eeaf05e4723a4d68d4b5d575c725a5ba42479bb1b1d03a8-1743626618).
 
