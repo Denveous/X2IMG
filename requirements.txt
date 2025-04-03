@@ -1,0 +1,4 @@
+Pillow==9.2.0
+cairosvg==2.5.2
+svgwrite==1.4.1
+tkinterdnd2==0.3.0
